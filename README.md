@@ -17,3 +17,5 @@ y luego para correr el proeycto ejecutar desde la consola
 ## Postman adjunto Url pública de postman y json
 
 [URL](https://www.getpostman.com/collections/14331c0149dc0438d52b)
+
+El json se encuentra en la carpeta del proyecto **LeanTech.postman_collection.json**
